@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bensfull
 - 👀 I’m interested in Front end developer
-- 🌱 I’m currently learning Apis and Json
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on front-end projects that can challenge my skills and allow me to contribute to the creation of innovative and interesting digital experiences.
 - 📫 How to reach me benson-pierre@outlook.com
 
